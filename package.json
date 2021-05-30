@@ -1,0 +1,28 @@
+{
+  "name": "discord-extras.js",
+  "version": "1.0.2",
+  "description": "```js\r const { randomInterval } = new (require('discord-extras.js'));",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RudementalHack",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudementalHack/discord-extras.js.git"
+  },
+  "keywords": [
+    "Discord",
+    "Interval",
+    "Extras",
+    "Timers"
+  ],
+  "bugs": {
+    "url": "https://github.com/RudementalHack/discord-extras.js/issues"
+  },
+  "homepage": "https://github.com/RudementalHack/discord-extras.js#readme"
+}
