@@ -1,5 +1,5 @@
 ## Discord-Extras.js
-
+##### [`npm i discord-extras.js`](https://npmjs.com/package/discord-extras.js)
 
 #### Example Usage
 ```js
