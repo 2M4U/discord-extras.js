@@ -1,4 +1,6 @@
 ## Discord-Extras.js
+[![Join My Discord](https://cdn.discord.watch/invite/h3MVebtd9E???)](https://discord.com/invite/h3MVebtd9E)
+
 ##### [`npm i discord-extras.js`](https://npmjs.com/package/discord-extras.js)
 
 #### Example Usage
